@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "bt_communication.h": "c",
+        "potentiometer.h": "c",
+        "freertos.h": "c",
+        "esp_rom_sys.h": "c",
+        "esp_log.h": "c",
+        "nvs_flash.h": "c",
+        "h_bridge.h": "c",
+        "ultrasonics.h": "c"
+    }
+}
